@@ -1,0 +1,6 @@
+com\attendance\app\model\Attendance.class
+com\attendance\app\dao\AttendanceDAO.class
+com\attendance\app\DBConnection.class
+com\attendance\app\model\Student.class
+com\attendance\app\dao\StudentDAO.class
+com\attendance\app\Main.class
