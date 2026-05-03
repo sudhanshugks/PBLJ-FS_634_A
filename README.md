@@ -12,9 +12,9 @@ It serves as a collection of experiments rather than a full production-ready app
 
 ## Structure
 - `Student_AttendanceSystem/` → Attendance system project with DB connection refactor.
-- `23BCS11534 Exp. 2.2(a).java` → Class experiment (part a).
-- `23BCS11534 Exp. 2.2(b).java` → Class experiment (part b).
-- `23BCS11534 Exp. 2.2(c).java` → Class experiment (part c).
+- `Exp. 2.2(a).java` → Class experiment (part a).
+- `Exp. 2.2(b).java` → Class experiment (part b).
+- `Exp. 2.2(c).java` → Class experiment (part c).
 
 ## Notes
 - This repo only stores and demonstrates class experiments.
